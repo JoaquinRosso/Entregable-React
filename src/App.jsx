@@ -13,7 +13,7 @@ function App() {
           <ProductList
             cartItem={cartItem}
             setCartItem={setCartItem}
-            Item={groceries}
+            item={groceries}
           />
         </div>
         <div className="col-6">
